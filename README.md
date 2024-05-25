@@ -1,11 +1,8 @@
-### Hi there 👋, My Name is Adel
-#### Data Science and Analytics
-
-<img width="1834" alt="my_banner" src="https://github.com/AdelMoustafa098/AdelMoustafa098/assets/43845826/f2a8125b-1e8a-4f62-bdeb-0b54e0466bc8">  
+<img width="1834" alt="my_banner" src="https://github.com/AdelMoustafa098/AdelMoustafa098/assets/43845826/f2a8125b-1e8a-4f62-bdeb-0b54e0466bc8">    
 
 Graduated from biomedical engineering from Cairo University, I’ve always been intrigued by the power of data to solve problems and improve our lives. With almost 2 years diving into data analysis, data science, and machine learning, I’ve learned that even the smallest details can make a big difference.
 
-Skills: Python, Java, C++,C , Scikit-learn, TuriCreate, TensorFlow, Keras, NumPy, SciPy, Pandas, Matplotlib, Seaborn, Plotly, SQL, Tableau
+**Skills**: Python, Java, C++,C , Scikit-learn, TuriCreate, TensorFlow, Keras, NumPy, SciPy, Pandas, Matplotlib, Seaborn, Plotly, SQL, Tableau
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning AWS Cloud 
